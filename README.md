@@ -1,74 +1,162 @@
-<h1 align="center">Hi 👋, I'm Niranga Nayanajith</h1>
-<h3 align="center">A Developer and Cyber Security Enthusiast</h3>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">⚡ Niranga Nayanajith ⚡</h1>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=nngeek195" alt="nngeek195" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Full+Stack+Developer;Breaking+%26+Building+Systems;Learning+Never+Stops" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nngeek195&label=PROFILE+VIEWS&color=00ff9c&style=for-the-badge" />
+</p>
+
+---
+
+## 🖥️ TERMINAL INTRO
+
+```bash
+> whoami
+Niranga Nayanajith
+
+> role
+Developer / Cyber Security Enthusiast
+
+> focus
+Cyber Security | Networking | Automation
+
+> status
+Building • Learning • Breaking • Improving
+```
+
+---
+
+## 🧠 SYSTEM PROFILE
+
+```yaml
+name: Niranga Nayanajith
+location: Sri Lanka 🇱🇰
+
+focus:
+  - Cyber Security
+  - Networking
+  - Secure Development
+
+currently_building:
+  - Webify.me
+  - සිUnicodes
+
+learning:
+  - Python for Security
+  - Ethical Hacking
+  - Network Analysis
+```
+
+---
+
+## ⚙️ TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,react,nodejs,flutter,dart,mongodb,mysql,firebase,linux,git,figma,tailwind,bootstrap" />
+</p>
+
+---
+
+## 🔐 CYBER SECURITY MODE
+
+```diff
++ Penetration Testing (Beginner → Advanced)
++ Network Analysis & Packet Inspection
++ Python Automation for Security
++ Vulnerability Research
++ Ethical Hacking Labs
+```
+
+---
+
+## 📊 LIVE SYSTEM METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nngeek195&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nngeek195&theme=radical&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nngeek195&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 📈 ACTIVITY MAP
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nngeek195&theme=react-dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nngeek195&theme=matrix&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+```diff
++ Webify.me        → Web platform builder
++ සිUnicodes       → Sinhala Unicode innovation
++ Security Labs    → Experimental hacking & defense tools
+```
+
+---
+
+## 🎮 INTERACTIVE ZONE
+
+* ♟️ Play Chess via GitHub Issues
+* 🎯 Connect4 GitHub Game
+* 🧠 Solve CTF-style repositories
+
+> GitHub is not just code — it's a playground.
+
+---
+
+## 💡 RANDOM DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nngeek195/nngeek195/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+<a href="https://linkedin.com/in/niranga-nayanajith-548a0a302">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://www.hackerrank.com/nngeek195">
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+</a>
+<a href="https://github.com/nngeek195">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
-👨‍💻 About Me
-🔭 I’m currently working on Webify.me and සිUnicodes.
+---
 
-🌱 I’m currently learning Networking and Python for Cyber Security.
-
-👯 I’m looking to collaborate on Cyber Security projects.
-
-🤔 I’m looking for help with Cyber Security and Networking projects.
-
-💬 Ask me about Python, Java, C, C#, and Ballerina.
-
-📫 How to reach me: Niranganayanajith195@gmail.com
-
-CONNECT WITH ME
-<p align="left">
-<a href="https://linkedin.com/in/niranga-nayanajith-548a0a302" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niranga Nayanajith LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/nngeek195" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nngeek195 HackerRank" height="30" width="40" />
-</a>
-</p>
-
-🛠️ Languages and Tools
-<p align="left">
-<a href="https://ballerina.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ballerina/ballerina-original.svg" alt="ballerina" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-
-</p>
-
-📊 GitHub Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nngeek195&show_icons=true&locale=en" alt="nngeek195" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nngeek195&" alt="nngeek195" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nngeek195&show_icons=true&locale=en&layout=compact" alt="nngeek195" />
+  ⚡ <b>"Break systems. Understand them. Secure them."</b> ⚡
 </p>
