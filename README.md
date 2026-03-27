@@ -100,7 +100,7 @@ learning:
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nngeek195&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nngeek195&theme=radical&no-frame=true&margin-w=10&cache_seconds=86400" />
 </p>
 
 ---
