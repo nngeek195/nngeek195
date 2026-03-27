@@ -100,7 +100,11 @@ learning:
 ## 🏆 ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nngeek195&theme=radical&no-frame=true&margin-w=10&cache_seconds=86400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nngeek195&theme=onedark&no-frame=true&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nngeek195&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
